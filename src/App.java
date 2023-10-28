@@ -24,5 +24,7 @@ public class App {
                 running = false;
             }
         }
+
+        myObj.close();
     }
 }
